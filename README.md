@@ -53,7 +53,7 @@ The code that I wrote after did not pass as the return value included an extra c
  => I have a rspec shortcut extension that I should use more often.
 
  Firt attempt 
- [video](https://www.youtube.com/watch?v=zgScbea9YoI&feature=youtu.be)
+ [video](https://youtu.be/zf0ny9kjd7A)
 
 
 
