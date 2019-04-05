@@ -19,6 +19,14 @@ get_middle("of") # => "of"
 
 ``````
 
+## Getting Started
+
+1. Clone this repo `git clone github.com/Rodrigue-K/Get-Middle-Character-Process-Review`
+2. Change directory `cd Get-Middle-Character-Process-Review`
+4. Interact with the program in irb `irb`
+5. Load the program `require ./lib/get_middle`
+6. Try it for yourself with any word 
+
 Process 
 ---------
 
