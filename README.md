@@ -3,6 +3,7 @@ Get_the_middle_char
 Your job is to return the middle character of a word. If the word's length is odd, return the middle character. If the word's length is even, return the middle 2 characters.
 
 Requirements
+----------
 The program runs in a repl like IRB or in the browser console
 
 It's fine to use Ruby or JavaScript.
@@ -17,6 +18,14 @@ get_middle("A") # => "A"
 get_middle("of") # => "of"
 
 ``````
+
+## Getting Started
+
+1. Clone this repo `git clone github.com/Rodrigue-K/Get-Middle-Character-Process-Review`
+2. Change directory `cd Get-Middle-Character-Process-Review`
+4. Interact with the program in irb `irb`
+5. Load the program `require ./lib/get_middle`
+6. Try it for yourself with any word 
 
 Process 
 ---------
@@ -52,8 +61,8 @@ The code that I wrote after did not pass as the return value included an extra c
  => Set up a key that can be used to create ruby repository quicker. 
  => I have a rspec shortcut extension that I should use more often.
 
- Firt attempt 
- [video](https://www.youtube.com/watch?v=zgScbea9YoI&feature=youtu.be)
+ First attempt 
+ [video](https://youtu.be/zf0ny9kjd7A)
 
 
 
